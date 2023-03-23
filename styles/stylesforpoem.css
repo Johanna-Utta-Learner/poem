@@ -1,0 +1,39 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    color: #3b1d1d;
+    margin: 0 auto;
+    
+} 
+
+.bodytext {
+
+    padding: 30px;
+}
+
+.bodytext h1,h2,h3
+ {
+    color:#be3455;
+}
+img {
+        padding: 20px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        max-width: 600px;
+    }
+
+
+.header {
+    background-image:url("../assets/viva_magenta_header_background.jpg");
+    text-align: center;
+    color: #fff;
+    padding: 50px;
+} 
+
+.header h1 {
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+}
