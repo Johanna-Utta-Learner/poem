@@ -6,6 +6,10 @@ body {
     
 } 
 
+nav ul {
+list-style-type: none;}
+
+
 .bodytext {
 
     padding: 30px;
